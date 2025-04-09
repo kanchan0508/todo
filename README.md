@@ -12,8 +12,8 @@ A simple yet feature-rich To-Do application built with **React** and **Redux** t
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kanchan0508/Todo-app-.git
+   git clone https://github.com/kanchan0508/todo
    cd advanced-react-todo
 
 ## Live URL 
- - 
+ - https://todo-delta-ten-75.vercel.app/
